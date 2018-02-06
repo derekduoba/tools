@@ -22,3 +22,7 @@
 
 - vim-pug
 	https://github.com/digitaltoad/vim-pug.git
+
+## Misc
+- Powerline
+        http://powerline.readthedocs.io/en/master/index.html
