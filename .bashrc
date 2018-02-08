@@ -17,5 +17,7 @@ ffi() { find ./ -iname $1; };
 
 c() { clear; }; 
 
-gs() { git status; };
+gc() { git checkout $1; };
 gd() { git diff; };
+gp() { git pull; };
+gs() { git status; };
